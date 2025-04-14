@@ -85,6 +85,7 @@
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
   <img src="https://img.shields.io/badge/Llama--index-4C75A6?style=for-the-badge&logoColor=white" alt="Llama-index">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Gradio-17A34A?style=for-the-badge&logo=python&logoColor=white" alt="Gradio">
 </p>
 </details>
 <details open>
